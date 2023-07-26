@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Basic Caching implementation"""
 
 BaseCaching = __import__("baseCaching").BaseCaching
 
